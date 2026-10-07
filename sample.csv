@@ -1,0 +1,5 @@
+name,age,score,city
+ann,30,1.5,Oslo
+bob,25,2.5,Rome
+cy,,3,Oslo
+di,41,,Oslo
